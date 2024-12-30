@@ -53,7 +53,7 @@ Before you begin, ensure you have the following installed on your system:
    - Create a `.env` file in the root directory of the project.
    - Add your **Bitly Access Token**:
      ```
-     BITLY_ACCESS_TOKEN=your_bitly_access_token
+     You will need your Bitly API key for this to work
      ```
 
 ---
