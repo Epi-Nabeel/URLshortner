@@ -62,7 +62,7 @@ Before you begin, ensure you have the following installed on your system:
 
 1. **Run the application:**
    ```bash
-   python urlshortner1.1.py
+   python main.py
    ```
 
 2. **Follow the interactive menu:**
