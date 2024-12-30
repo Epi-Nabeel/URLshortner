@@ -33,7 +33,7 @@ Before you begin, ensure you have the following installed on your system:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/Epi-Nabeel/urlshortener.git
-   cd url-shortener
+   cd urlshortener
    ```
 
 2. **Create a virtual environment:**
@@ -62,7 +62,7 @@ Before you begin, ensure you have the following installed on your system:
 
 1. **Run the application:**
    ```bash
-   python main.py
+   python urlshortner1.1.py
    ```
 
 2. **Follow the interactive menu:**
